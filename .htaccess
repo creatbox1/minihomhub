@@ -71,6 +71,7 @@ RewriteRule ^blog/how-to-choose-hvac-contractor\.html$ /blog/hvac-installation-c
 RewriteRule ^blog/hvac-cost-guide\.html$ /blog/average-heating-cost-per-month-usa.html [R=301,L]
 RewriteRule ^blog/hvac-rebates\.html$ /blog/monthly-energy-saving-tips-us-homeowners.html [R=301,L]
 RewriteRule ^blog/when-to-replace-hvac\.html$ /blog/signs-hvac-needs-replacement-guide-2026.html [R=301,L]
+RewriteRule ^blog/signs-hvac-system-costing-you-more\.html$ /blog/signs-hvac-needs-replacement-guide-2026.html [R=301,L]
 
 # ──────────────────────────────────────────────
 # Force HTTPS (if SSL is enabled)
