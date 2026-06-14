@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minihomehub.online/sitemap.xml
+
+Sitemap: https://minihomehub.online/image-sitemap.xml
+Sitemap: https://minihomehub.online/feed.xml

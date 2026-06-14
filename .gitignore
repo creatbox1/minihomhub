@@ -1,0 +1,5 @@
+*.zip
+node_modules/
+lighthouse-results/
+image/New folder/
+AGENTS.md
